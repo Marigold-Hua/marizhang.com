@@ -166,36 +166,36 @@ let’s make 'em see green 💚
 
 ### phase 1 – foundation
 
-- [ ] detail phase 1 plan  
-- [ ] initialize with `create-react-app` or `next.js`  
-- [ ] setup routing (react router or next.js routing)  
-- [ ] build navbar with `framer motion` hover merges  
-- [ ] responsive layout with tailwindcss or css modules
+- [✅] detail phase 1 plan  
+- [⛔️ - queen learn react! mini projects time :)] initialize with `create-react-app` or `next.js`  
+- [⛔️ - ""] setup routing (react router or next.js routing)  
+- [⛔️ - ""] build navbar with `framer motion` hover merges  
+- [❌] responsive layout with tailwindcss or css modules - it's time to think in containers queen - MVP = jank website with basic HTML/CSS/JS
 
 ### phase 2 – core pages
 
-- [ ] about page (`mari`)  
-- [ ] work page with interactive case grid  
-- [ ] play project graph  
-- [ ] resume page with toggle  
-- [ ] gold + bu base pages
+- [❌] about page (`mari`)  
+- [❌] work page with interactive case grid  
+- [❌] play project graph  
+- [❌] resume page with toggle  
+- [❌] gold + bu base pages
 
 ### phase 3 – advanced features
 
-- [ ] framer motion page transitions  
-- [ ] long-hover reveals  
-- [ ] d3.js neural graph  
-- [ ] light/dark mode  
-- [ ] animated transitions  
-- [ ] performance tuning
+- [❌] framer motion page transitions  
+- [❌] long-hover reveals  
+- [❌] d3.js neural graph  
+- [❌] light/dark mode  
+- [❌] animated transitions  
+- [❌] performance tuning
 
 ### phase 4 – polish & deploy
 
-- [ ] meta tags, og tags, seo  
-- [ ] device testing  
-- [ ] analytics setup  
-- [ ] deploy to vercel/netlify  
-- [ ] custom domain config
+- [❌] meta tags, og tags, seo  
+- [❌] device testing  
+- [❌] analytics setup  
+- [❌] deploy to vercel/netlify  
+- [❌] custom domain config
 
 ---
 
@@ -216,12 +216,12 @@ let’s make 'em see green 💚
 
 ## ✍️ content style guide
 
-- voice: friendly, clear, sharp, human  
-- visuals: rich palette, soft shadows, 2xl rounded corners  
+- voice: friendly, clear, witty, strong Mari  
+- visuals: rich palette, soft shadows, 2xl rounded corners, organic shapes when posible
 - icons: lucide or custom svgs  
 - typography:  
-  ⚡️ headings — bold serif or sans-serif  
-  ⚡️ body — clean sans-serif  
+  ⚡️ headings — coiny or custom font
+  ⚡️ body — clean sans-serif [helvetica lol] 
 
 ---
 
