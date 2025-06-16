@@ -1,0 +1,15 @@
+div {
+    border: 5px solid cyan;
+}
+
+h6 {
+    border: 3px solid purple;
+}
+
+a {
+    border: 3px solid rebeccapurple;
+}
+
+img {
+    transform: scale(0.3);
+}
